@@ -1,4 +1,5 @@
 ./qdrant_strorage
+qdrant_strorage
 .env
 ../.env
 .env.local
