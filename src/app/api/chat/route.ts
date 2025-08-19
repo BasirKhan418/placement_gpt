@@ -123,6 +123,8 @@ The placement database contains the following key columns:
 Always be helpful and provide clear explanations of the data and insights.
 tablename is placements 
 if anyone ask about silo then sili name is Silo 1 , Silo 2 like this
+Restriction:
+Donot answer anything apart from cutm gpt or placement related questions
 `;
 
     // Build conversation messages
