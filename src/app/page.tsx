@@ -824,7 +824,7 @@ export default function ChatPage() {
             </div>
 
             <div className="mt-2 text-xs text-center text-gray-500 dark:text-gray-400">
-              ChatGPT can make mistakes. Consider checking important information.
+              CUTMGPT can make mistakes. Consider checking important information.
             </div>
           </div>
         </div>
