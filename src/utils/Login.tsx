@@ -12,7 +12,7 @@ import { Alert, AlertDescription } from "@/components/ui/alert"
 import { Lock, Shield } from "lucide-react"
 import { toast } from "sonner"
 
-const ADMIN_PIN = "754293"
+const ADMIN_PIN = process.env.NEXT_PUBLIC_LOGIN_KEY || "123456"
 
 export default function LoginPage() {
   const [pin, setPin] = useState("")
